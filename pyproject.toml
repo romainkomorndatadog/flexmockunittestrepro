@@ -1,0 +1,9 @@
+[project]
+version = "0.0.1"
+name = "flexmockunittestrepro"
+
+dependencies = [
+  "flexmock == 0.10.10"
+]
+
+description = "Just a little project to repro a but between flexmock and ddtrace CIVisibility"
